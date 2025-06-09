@@ -1,4 +1,4 @@
-# 🆘 Sajilo Sahayata – Real-Time Disaster Management & Coordination System
+# Sajilo Sahayata – Real-Time Disaster Management & Coordination System
 
 **Sajilo Sahayata** is a multilingual, real-time disaster management and citizen coordination platform designed to help citizens report emergencies, and enable government or response teams to manage, visualize, and act swiftly using location-based intelligence.
 
@@ -9,6 +9,7 @@
 ---
 
 ## Repository Structure
+<pre lang="plaintext"> ```
 sajilo-sahayata-frontend/
 ├── public/
 │   └── favicon.ico
@@ -53,6 +54,7 @@ sajilo-sahayata-frontend/
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
+``` </pre>
 
 ## 🚀 Features
 
