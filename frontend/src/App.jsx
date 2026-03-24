@@ -6,7 +6,7 @@ import { useEffect } from "react";
 
 const App = () => {
   useEffect(() => {
-    useAuth.getState().autoLogin(); // calls verify on first load
+    useAuth.getState().autoLogin();
   }, []);
   useLocalGovernment();
   return <AppRoutes />;
